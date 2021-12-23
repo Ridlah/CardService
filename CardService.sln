@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardService", "CardService\CardService.csproj", "{86955CCA-7E3F-4A1A-BF5A-980C785317F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardService.Tests", "CardService.Tests\CardService.Tests.csproj", "{55616A69-74C6-47FE-8A62-5E64DF7E902A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86955CCA-7E3F-4A1A-BF5A-980C785317F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86955CCA-7E3F-4A1A-BF5A-980C785317F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86955CCA-7E3F-4A1A-BF5A-980C785317F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86955CCA-7E3F-4A1A-BF5A-980C785317F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55616A69-74C6-47FE-8A62-5E64DF7E902A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55616A69-74C6-47FE-8A62-5E64DF7E902A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55616A69-74C6-47FE-8A62-5E64DF7E902A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55616A69-74C6-47FE-8A62-5E64DF7E902A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
